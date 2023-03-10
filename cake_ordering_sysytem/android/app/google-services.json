@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109122141164",
+    "project_id": "cake-ordering-sysytem",
+    "storage_bucket": "cake-ordering-sysytem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109122141164:android:eeb69606e04e6e93131ec9",
+        "android_client_info": {
+          "package_name": "com.example.cake_ordering_sysytem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109122141164-raorgshcm2u21rfeekpp5vsonhjtuaj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwABacDDs_pc5PntDCdtbQSUmxyZf7Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109122141164-raorgshcm2u21rfeekpp5vsonhjtuaj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
